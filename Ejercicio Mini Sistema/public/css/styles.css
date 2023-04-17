@@ -1,0 +1,8 @@
+body{
+    background-color: lightgray;
+}
+
+form > label{
+    display: block;
+    margin: 10px 0;
+}
